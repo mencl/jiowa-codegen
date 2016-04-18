@@ -4,7 +4,7 @@
 * [**_compile-time safety_**](http://de.slideshare.net/Robert_Mencl/jiowa-code-generator-framework/13) for your templates,
 * [**_full control of code generation & template engine via Java_**](http://de.slideshare.net/Robert_Mencl/jiowa-code-generator-framework/8),
 * very [**_effective and comprehensible template notation_**](http://de.slideshare.net/Robert_Mencl/jiowa-code-generator-framework/24),
-* [**_template notation symbols can be changed dynamically_**](http://de.slideshare.net/Robert_Mencl/jiowa-code-generator-framework/40) according to your target platform,
+* [**_template notation symbols can be changed dynamically_**](http://de.slideshare.net/Robert_Mencl/jiowa-code-generator-framework/40) according to your target platform if needed,
 * strict [**_separation of code_**](http://de.slideshare.net/Robert_Mencl/jiowa-code-generator-framework/9) (generator) [**_& design_**](http://de.slideshare.net/Robert_Mencl/jiowa-code-generator-framework/9) (template), 
 * **_templates_** do not carry any model-specific information ==> **_completely re-usable across different projects_**,
 * **_supports any type of model_** for which an API exists,
