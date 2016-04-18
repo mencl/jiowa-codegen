@@ -80,8 +80,16 @@ Click here for the [Slideshare presentation](http://de.slideshare.net/Robert_Men
 
 [PDF version of the handbook](http://www.jiowa.de/jiowa-codegen/doc/Jiowa-Code-Generation-Tutorial_and_Handbook-2.1.pdf).
 
-## Download
+## Distribution
+
+The distribution consists of a Maven project with an example for a code generation application, generator templates, and the [PDF version of the Tutorial & Handbook](http://www.jiowa.de/jiowa-codegen/doc/Jiowa-Code-Generation-Tutorial_and_Handbook-2.1.pdf). 
+The project has been slightly optimized for Eclipse IDE so that the template beans are automatically re-generated if a template or its properties change. For IntelliJ IDEA and Netbeans IDE you will have to hit the re-build button. 
+
 [Download the code generation framework here ...](http://www.jiowa.de/download.html)
+
+You might also want to have a look at the [README](http://www.jiowa.de/jiowa-codegen/README) file of the distribution.
+
+Java Doc: [www.jiowa.de/jiowa-codegen/doc/api/](http://www.jiowa.de/jiowa-codegen/doc/api/)
 
 ##License
 JIOWA Code Generation Framework & Template Engine is licensed under the 
