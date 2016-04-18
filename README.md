@@ -34,23 +34,23 @@ The template is compiled during the automatic build process into a so-called tem
 ![](http://www.jiowa.de/_Media/folie-07_med.png)
 
 
-Parameters can be simply filled into the template bean as shown in the lower left part of the next picture. The text representation of the template bean Letter_jgt delivers the template text with inserted parameter values ("Smith", "Jenny Jones") and sub template instances (Mr, Ms).  The text representation of sub template Mr via the toString()-method is "Mr.". 
+Parameters can be simply filled into the template bean as shown in the lower left part of the next picture. The text representation of the template bean `Letter_jgt` delivers the template text with inserted parameter values ("Smith", "Jenny Jones") and sub template instances (`Mr`, `Ms`).  The text representation of sub template Mr via the `toString()`-method is "Mr.". 
 
 ![](http://www.jiowa.de/_Media/folie-08_med.png)
 
 
-The output of the toString()-method of template bean Letter_jgt is shown in the lower right of the picture below.
+The output of the `toString()`-method of template bean `Letter_jgt` is shown in the lower right of the picture below.
 
 ![](http://www.jiowa.de/_Media/folie-09_med.png)
 
 
 ##**Quick Introduction:** Java Class Template
 
-The next example shows a Java class template which uses two additional sub templates: Attribute.jgt & GetterSetter.jgt. 
+The next example shows a Java class template which uses two additional sub templates: `Attribute.jgt` & `GetterSetter.jgt`. 
 
 ![](http://www.jiowa.de/_Media/folie-11_med.png)
 
-The sub template structure identifiers like "foreachAttribute" can be chosen by the template designer totally arbitrarily. It does not matter if we write "pourChaqueElement" (french) or "fuerJedesAttribut" (german), or separate the single words with spaces as in "for each attribute".  This identifier is always compiled into the corresponding structure within the template bean with the same name and can be used for the (multiple) insertion of subtemplate instances.
+The sub template structure identifiers like "`foreachAttribute`" can be chosen by the template designer totally arbitrarily. It does not matter if we write "`pourChaqueElement`" (french) or "`fuerJedesAttribut`" (german), or separate the single words with spaces as in "`for each attribute`".  This identifier is always compiled into the corresponding structure within the template bean with the same name and can be used for the (multiple) insertion of subtemplate instances.
 
 ![](http://www.jiowa.de/_Media/folie-12_med.png)
 
@@ -59,24 +59,26 @@ The picture below depicts the translation of the Java class template into the te
 
 ![](http://www.jiowa.de/_Media/folie-13_med.png)
 
-The attribute template Attribute.jgt is rather short and consists of only two variable values: DataType,  AttributeName.
+The attribute template `Attribute.jgt` is rather short and consists of only two variable values: `DataType`,  `AttributeName`.
 
 ![](http://www.jiowa.de/_Media/folie-14_med.png)
 
-Getters and Setters are defined in the GetterSetter.jgt template which is compiled into the template bean class GetterSetter_jgt.
+Getters and Setters are defined in the `GetterSetter.jgt` template which is compiled into the template bean class `GetterSetter_jgt`.
 
 ![](http://www.jiowa.de/_Media/folie-15_med.png)
 
 Insertion of values into the Java class template is performed in the same way as in the letter template example. 
 The type of model from which the data is obtained to be inserted into the template beans is totally arbitrary.
 
-## Download
-[Download the code generation framework here ...](http://www.jiowa.de/download.html)
+All features are described in the tutorial and handbook...
 
 ## Full Tutorial & Handbook
 Click here for the [Slideshare presentation](http://de.slideshare.net/Robert_Mencl/jiowa-code-generator-framework)
 
 [PDF version of the handbook](http://www.jiowa.de/jiowa-codegen/doc/Jiowa-Code-Generation-Tutorial_and_Handbook-2.1.pdf).
+
+## Download
+[Download the code generation framework here ...](http://www.jiowa.de/download.html)
 
 ##License
 JIOWA Code Generation Framework & Template Engine is licensed under the 
