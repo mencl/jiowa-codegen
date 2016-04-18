@@ -73,11 +73,11 @@ Getters and Setters are defined in the `GetterSetter.jgt` template which is comp
 Insertion of values into the Java class template is performed in the same way as in the letter template example. 
 The type of model from which the data is obtained to be inserted into the template beans is totally arbitrary.
 
-All features are described in the tutorial and handbook...
+All features are described in the [tutorial and handbook...](http://de.slideshare.net/Robert_Mencl/jiowa-code-generator-framework)
 
-## Full Tutorial & Handbook
+## Tutorial & Handbook
 Click here for the [Slideshare presentation](http://de.slideshare.net/Robert_Mencl/jiowa-code-generator-framework)
-
+and here for the 
 [PDF version of the handbook](http://www.jiowa.de/jiowa-codegen/doc/Jiowa-Code-Generation-Tutorial_and_Handbook-2.1.pdf).
 
 ## Download
