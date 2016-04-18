@@ -1,5 +1,3 @@
-# [jiowa-codegen](http://www.jiowa.de/download.html)
-
 #[JIOWA Code Generation &amp; Template Engine](http://www.jiowa.de/download.html)
 
 ## Features
@@ -83,5 +81,16 @@ Click here for the [Slideshare presentation](http://de.slideshare.net/Robert_Men
 ##License
 JIOWA Code Generation Framework & Template Engine is licensed under the 
 [JIOWA Backlinking License 1.0](http://www.jiowa.de/jiowa-codegen-license.html)
+which basically means the following.
 
+**JIOWA Code Generation Framework**
 
+is free for commercial and non-commercial use under the following conditions: 
+
+* you set a public link from your website(s) to www.jiowa.de stating that you use the JIOWA Code Generation Framework. 
+  If you do not own a website then you can set a public backlink from your favourite social media account to www.jiowa.de.
+  Example link text: ["We are using the JIOWA Code Generation Framework!"](http://www.jiowa.de)
+
+* and you leave all our copyright/license notices inside the distribution.
+
+[Full license text is here](http://www.jiowa.de/jiowa-codegen-license.html).
