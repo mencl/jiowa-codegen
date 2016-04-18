@@ -4,7 +4,7 @@
 * compile-time safety for your templates,
 * full control of code generation & template engine via Java,
 * very effective and comprehensible template notation,
-* [template notation symbols can be changed dynamically](http://de.slideshare.net/Robert_Mencl/jiowa-code-genertor-framework/40) according to your target platform,
+* [template notation symbols can be changed dynamically](http://de.slideshare.net/Robert_Mencl/jiowa-code-generator-framework/40) according to your target platform,
 * strict separation of code (generator) and design (template), 
 * templates do not carry any model-specific information ==> completely re-usable across different projects,
 * supports any type of model for which an API exists,
