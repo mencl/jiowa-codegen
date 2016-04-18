@@ -1,16 +1,16 @@
 #[JIOWA Code Generation &amp; Template Engine](http://www.jiowa.de/download.html)
 
 ## Features
-* _compile-time safety_ for your templates,
-* _full control of code generation & template engine via Java_,
-* very _effective and comprehensible template notation_,
-* [_template notation symbols can be changed dynamically_](http://de.slideshare.net/Robert_Mencl/jiowa-code-generator-framework/40) according to your target platform,
-* strict _separation of code_ (generator) _& design_ (template), 
-* _templates_ **do not** carry any model-specific information ==> _completely re-usable across different projects_,
-* _supports any type of model_ for which an API exists,
-* _supports each IDE_ (no plug-ins necessary),
-* easily _extensible via Java_,
-* _**no** polyglot programming_.
+* **_compile-time safety_** for your templates,
+* **_full control of code generation & template engine via Java_**,
+* very **_effective and comprehensible template notation_**,
+* [**_template notation symbols can be changed dynamically_**](http://de.slideshare.net/Robert_Mencl/jiowa-code-generator-framework/40) according to your target platform,
+* strict **_separation of code_** (generator) **_& design_** (template), 
+* **_templates_** do not carry any model-specific information ==> **_completely re-usable across different projects_**,
+* **_supports any type of model_* for which an API exists,
+* **_supports each IDE_** (no plug-ins necessary),
+* easily **_extensible via Java_**,
+* **_no polyglot programming_**.
 
 ##**Quick Introduction:** Letter Example
 
