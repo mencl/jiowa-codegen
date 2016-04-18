@@ -1,4 +1,4 @@
-[Download jiowa-codegen](http://www.jiowa.de/download.html)
+[**Download** jiowa-codegen](http://www.jiowa.de/download.html)
 
 
 #[JIOWA Code Generation &amp; Template Engine](http://www.jiowa.de/download.html)
@@ -22,12 +22,12 @@ Below we see a simple example template for a letter or email.
 ![](http://www.jiowa.de/_Media/folie-04_med.png)
 
 
-Templates are simple text files which can be enriched with template notation elements in order to work with parameters.
+Templates are simple text files which can be enriched with [template notation elements](http://de.slideshare.net/Robert_Mencl/jiowa-code-generator-framework/25) in order to work with placeholders.
 
 ![](http://www.jiowa.de/_Media/folie-05_med.png)
 
 
-There are only two basic structures for parameters: variables and subtemplates. In the example letter, inline subtemplates are used, a special case of subtemplates. The red template notation elements are symbols only. There are no special keywords. The green identifiers can be chosen arbitrarily by the user.
+There are only two basic structures for placeholders: variables and subtemplates. In the example letter, inline subtemplates are used, a special case of subtemplates. The red template notation elements are symbols only. There are no special keywords. The green identifiers can be chosen arbitrarily by the user.
 
 ![](http://www.jiowa.de/_Media/folie-06_med.png)
 
@@ -92,7 +92,7 @@ You might also want to have a look at the [README](http://www.jiowa.de/jiowa-cod
 Java Doc: [www.jiowa.de/jiowa-codegen/doc/api/](http://www.jiowa.de/jiowa-codegen/doc/api/)
 
 ##License
-JIOWA Code Generation Framework & Template Engine is licensed under the 
+JIOWA Code Generation Framework is licensed under the 
 [JIOWA Backlinking License 1.0](http://www.jiowa.de/jiowa-codegen-license.html)
 which basically means the following.
 
