@@ -106,7 +106,7 @@ which basically means the following.
 is free for commercial and non-commercial use under the following conditions: 
 
 * you set a public link from your website(s) to www.jiowa.de stating that you use the JIOWA Code Generation Framework. 
-  If you do not own a website then you can set a public backlink from your favourite social media account to www.jiowa.de.
+  If you do not own a website you can also set a public backlink from your favourite social media account to www.jiowa.de.
   Example link text: ["We are using the JIOWA Code Generation Framework!"](http://www.jiowa.de)
 
 * and you leave all our copyright/license notices inside the distribution.
