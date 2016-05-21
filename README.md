@@ -3,6 +3,11 @@
 
 #[JIOWA Code Generation &amp; Template Engine](http://www.jiowa.de/download.html)
 
+A new approach for code generation is presented. It consists of a powerful template engine which works quite differently from other approaches.
+
+Templates are pre-compiled during automatic build of the IDE into so-called _template beans_ (POJOs). By design, application logic is written in user-defined Java code which uses template beans for the data insertion process. Each template bean can render its contents to a text string by simply calling the `toString()`-method. If previously generated source files have to be updated, the code generation framework also offers support for protected regions which leave manually written text regions unchanged. 
+
+
 ## Features
 * [**_compile-time safety_**](http://de.slideshare.net/Robert_Mencl/jiowa-code-generator-framework/13) for your templates,
 * [**_full control of code generation & template engine via Java_**](http://de.slideshare.net/Robert_Mencl/jiowa-code-generator-framework/8),
