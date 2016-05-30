@@ -113,3 +113,5 @@ is free for commercial and non-commercial use under the following conditions:
 * and you leave all our copyright/license notices inside the distribution.
 
 [Full license text is here](http://www.jiowa.de/jiowa-codegen-license.html).
+
+There is also an article on [DZone](https://dzone.com/articles/code-generation-and-templating-made-really-easy).
