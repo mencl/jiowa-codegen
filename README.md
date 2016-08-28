@@ -98,18 +98,5 @@ You might also want to have a look at the [README](http://www.jiowa.de/jiowa-cod
 Java Doc: [www.jiowa.de/jiowa-codegen/doc/api/](http://www.jiowa.de/jiowa-codegen/doc/api/)
 
 ##License
-JIOWA Code Generation Framework is licensed under the 
-[JIOWA Backlinking License 1.0](http://www.jiowa.de/jiowa-codegen-license.html)
-which basically means the following.
-
-**JIOWA Code Generation Framework**
-
-is free for commercial and non-commercial use under the following conditions: 
-
-* you set a public link from your website(s) to www.jiowa.de stating that you use the JIOWA Code Generation Framework. 
-  If you do not own a website you can also set a public backlink from your favourite social media account to www.jiowa.de.
-  Example link text: ["We are using the JIOWA Code Generation Framework!"](http://www.jiowa.de)
-
-* and you leave all our copyright/license notices inside the distribution.
-
-[Full license text is here](http://www.jiowa.de/jiowa-codegen-license.html).
+JIOWA Code Generation Framework is free for commercial and non-commercial purposes and licensed under the 
+[JIOWA Backlinking License 1.0](http://www.jiowa.de/jiowa-codegen-license.html) which basically means that you have to set a backlink to the [JIOWA homepage](http://www.jiowa.de/). That's all!
