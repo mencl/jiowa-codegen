@@ -1,7 +1,7 @@
 [**Download** jiowa-codegen](http://www.jiowa.de/download.html)
 
 
-#[JIOWA Code Generation &amp; Template Engine](http://www.jiowa.de/download.html)
+## [JIOWA Code Generation &amp; Template Engine](http://www.jiowa.de/download.html)
 
 A new approach for code generation is presented. It consists of a powerful template engine which works quite differently from other approaches.
 
@@ -21,7 +21,7 @@ In the following, we list some of its features and continue with a quick introdu
 * easily **_extensible via Java_**,
 * **_no polyglot programming_**.
 
-##**Quick Introduction:** Letter Example
+## **Quick Introduction:** Letter Example
 
 Below we see a simple example template for a letter or email.
 
@@ -53,7 +53,7 @@ The output of the `toString()`-method of template bean `Letter_jgt` is shown in 
 ![](http://www.jiowa.de/_Media/folie-09_med.png)
 
 
-##**Quick Introduction:** Java Class Template
+## **Quick Introduction:** Java Class Template
 
 The next example shows a Java class template which uses two additional sub templates: `Attribute.jgt` & `GetterSetter.jgt`. 
 
@@ -97,6 +97,6 @@ You might also want to have a look at the [README](http://www.jiowa.de/jiowa-cod
 
 Java Doc: [www.jiowa.de/jiowa-codegen/doc/api/](http://www.jiowa.de/jiowa-codegen/doc/api/)
 
-##License
+## License
 JIOWA Code Generation Framework is free for commercial and non-commercial purposes and licensed under the 
 [JIOWA Backlinking License 1.0](http://www.jiowa.de/jiowa-codegen-license.html) which basically means that you have to set a backlink to the [JIOWA homepage](http://www.jiowa.de/). That's all!
